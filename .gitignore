@@ -1,0 +1,42 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework*
+**/ios/Flutter/Flutter.framework*
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Flutter.pri
+**/ios/Flutter/Flutter.xcframework*
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner.xcworkspace/
+**/ios/.generated/
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/android/.gradle/
+**/android/app/src/main/flutter_assets/
+**/android/build/
+**/android/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/.idea/
+**/android/.android/
+**/android/Flutter/build/
+**/android/Flutter/gradle/
+**/android/Flutter/gradlew
+**/android/Flutter/gradlew.bat
+**/android/Flutter/local.properties
+
+# IDE-specific
+.vscode/
+.idea/
+*.iml
+
+# Other
+pubspec.lock
+/.dart_tool/
+/.pub/
+/.packages
+.DS_Store
+*.

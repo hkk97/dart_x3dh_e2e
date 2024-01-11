@@ -1,0 +1,14 @@
+name: dart_3xdh_e2e
+description: dart_3xdh_e2e is a robust and secure project that focuses on implementing end-to-end encryption using the Extended Triple Diffie-Hellman (X3DH) key agreement protocol. The project aims to provide a reliable solution for secure communication, ensuring privacy and data integrity.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  benchmarking: ^0.6.1
+  convert: ^3.1.1
+  cryptography: ^2.7.0
+  test: ^1.25.0
+
+dev_dependencies:
