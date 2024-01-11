@@ -12,7 +12,7 @@ Ensure that you have Dart and Flutter installed on your machine. You can install
 
 ## Usage
 
-1. Add the `aes_gcm` and `rand` crates as dependencies in your `Cargo.toml` file:
+1. Add the `convert` and `cryptography` crates as dependencies in your `pubspec.yaml` file:
 
    ````yaml
     dependencies:
